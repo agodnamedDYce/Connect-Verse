@@ -1,0 +1,24 @@
+Dependencies
+*multer & cloudinary for image uploads
+*mailgen for email output e.g welcome email, resets, etc 
+
+SRC folders
+*config holds info on 
+*controller holds major task control info 
+*middleware holds info on prerequisites
+*models holds structure info
+*routes holds info on file paths
+*sockets 
+*utils holds additional info
+
+models linked to routes linked to controller;
+model in cont cont in route
+
+HTTP request methods
+post
+get
+remove
+patch
+put
+
+
